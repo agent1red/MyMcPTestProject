@@ -1,7 +1,21 @@
 # Anthropic Model Context Protocol (McP) Documentation Project
 
+## Live Demo
+View the live landing page: [https://agent1red.github.io/MyMcPTestProject/](https://agent1red.github.io/MyMcPTestProject/)
+
 ## Project Overview
 This repository contains documentation and a landing page for the Anthropic Model Context Protocol (McP), created entirely through interaction with Claude, an Anthropic AI. The content demonstrates both technical documentation capabilities and web development skills of AI.
+
+## Setting Up GitHub Pages
+If you fork this repository and want to set up your own GitHub Pages:
+
+1. Go to your forked repository's Settings
+2. In the left sidebar, click on "Pages" under "Code and automation"
+3. Under "Source", select "Deploy from a branch"
+4. Under "Branch", select "main" and "/root", then click "Save"
+5. Wait about 30 seconds for deployment
+6. Your site will be available at: `https://[your-username].github.io/MyMcPTestProject/`
+7. You can check deployment status in the "Actions" tab
 
 ## Project Creation Process
 This entire project was created through a conversation with Claude (Anthropic's AI). Here's the exact conversation flow that generated this repository:
@@ -78,6 +92,14 @@ This project serves as an example of AI's capability to:
 5. Follow complex instructions and create interrelated content
 
 All content was generated through natural language interaction with Claude, demonstrating the potential of AI assistants in software development and documentation tasks.
+
+## Screenshot
+To add a screenshot of the landing page:
+1. Visit the live site: https://agent1red.github.io/MyMcPTestProject/
+2. Take a screenshot of the page
+3. Create an `images` directory in your fork
+4. Add the screenshot to the `images` directory
+5. Update this section of the README to display your screenshot
 
 ## License
 This documentation project is available for reference and educational purposes.
